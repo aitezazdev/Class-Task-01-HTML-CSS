@@ -30,7 +30,7 @@ body::after{
 #navbar{
     height: 80px;
     text-transform: uppercase;
-    color: white;
+    color: #fff;
 }
 
 #logo{
@@ -71,13 +71,13 @@ body::after{
     text-transform: uppercase;
     margin: 2rem 0;
     font-size: 3.5rem;
-    color: white;
+    color: #fff;
     text-align: center;
 }
 
 #main-content p{
     text-align: center;
-    color: white;
+    color: #fff;
     margin: 2rem 0;
 }
 
@@ -95,7 +95,7 @@ body::after{
     border: 1px solid #409cb8;
     margin: 0 1rem;
     background-color: transparent;
-    color: white;
+    color: #fff;
 }
 
 .btns:hover{
